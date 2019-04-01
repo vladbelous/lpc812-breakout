@@ -1,6 +1,6 @@
 (export (version D)
   (design
-    (source /Users/vladislav/Documents/KiCad-projects/lpc812-breakout/lpc812-breakout.sch)
+    (source ${KIPRJMOD}/lpc812-breakout.sch)
     (date "Monday, March 11, 2019 at 11:13:20 PM")
     (tool "Eeschema (5.0.1-3-g963ef8bb5)")
     (sheet (number 1) (name /) (tstamps /)
@@ -154,7 +154,7 @@
     (library (logical Switch)
       (uri "/Library/Application Support/kicad/library/Switch.lib"))
     (library (logical local_symbols)
-      (uri /Users/vladislav/Documents/KiCad-projects/lpc812-breakout/libs/symbols.lib)))
+      (uri ${KIPRJMOD}/libs/symbols.lib)))
   (nets
     (net (code 1) (name PIO_17)
       (node (ref U1) (pin 1))

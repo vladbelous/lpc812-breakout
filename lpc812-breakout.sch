@@ -5,13 +5,13 @@ EELAYER END
 $Descr USLetter 11000 8500
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
+Title "LPC812 simple breakout"
+Date "2019-04-01"
+Rev "1"
 Comp ""
-Comment1 ""
-Comment2 ""
-Comment3 ""
+Comment1 "creativecommons.org/licenses/by-sa/4.0/"
+Comment2 "CC BY-SA 4.0"
+Comment3 "(C) Vlad Belous"
 Comment4 ""
 $EndDescr
 $Comp

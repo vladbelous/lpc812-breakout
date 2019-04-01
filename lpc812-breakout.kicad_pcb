@@ -10,6 +10,15 @@
   )
 
   (page USLetter)
+  (title_block
+    (title "LPC812 simple breakout")
+    (date 2019-04-01)
+    (rev 1)
+    (comment 1 creativecommons.org/licenses/by-sa/4.0/)
+    (comment 2 "CC BY-SA 4.0")
+    (comment 3 "(C) Vlad Belous")
+  )
+
   (layers
     (0 F.Cu mixed)
     (31 B.Cu mixed)

@@ -12,12 +12,13 @@ Breakout board includes:
   * activates USART (PIO0_0 = RXD, PIO0_4 = TXD) for programming.
 
 ## Schematic 
-
-TODO: picture
+![schematic](img/schematic.png)
 
 ## Layout
+![layout](img/pcb_layout.png)
 
-TODO: picture
+## Assembled board
+![layout](img/pcb_assembled.jpg)
 
 ## Toolchain setup
 
